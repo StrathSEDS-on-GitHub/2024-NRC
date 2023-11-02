@@ -1,0 +1,16 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: wbnew
+# Creation date: 11/02/2023 23:31:24
+# 
+# 11/02/2023 23:31:24
+# The parameters defined in the project are:
+# ,P1 - drag-coefficient-op
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1
+DP 0,0.15781763
+# 
+# A non parametric change occurred and invalidated design point results.
+# 11/02/2023 23:32:10
+# 
