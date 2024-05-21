@@ -83,7 +83,7 @@ fins = stilltesting.add_fins(
     tip_chord = fin_tip,
     span = fin_half_span,
     sweep_angle = fin_sweep_angle,
-    cant_angle = 0,
+    cant_angle = 0.1,
     position = centre_of_mass - 0.495
 )
 
@@ -108,5 +108,5 @@ simulation = Flight(
 
 #simulation.all_info()
 simulation.export_data(
-    "flight_data.csv",
+    "data/flight_data.csv",
 )
