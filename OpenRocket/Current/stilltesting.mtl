@@ -1,0 +1,183 @@
+newmtl mat_1_Nose Cone
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_2_Fore Airframe
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.83137256 0.7254902 0.5686275
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\spiral-wound-alpha.png
+newmtl mat_3_Coupler Tube
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\spiral-wound-alpha.png
+newmtl mat_4_Bulkhead
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wood.jpg
+newmtl mat_5_Linkage
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_6_Computer
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_7_18350 Battery
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_8_18350 Battery
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_9_Avionics Bay Housing
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_10_Threaded rod
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_11_Threaded rod
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_12_EzMini
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_13_Aft Airframe
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.83137256 0.7254902 0.5686275
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\spiral-wound-alpha.png
+newmtl mat_14_Parachute
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\chute.jpg
+newmtl mat_15_Strain Gauges
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_16_Motor Tube
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\spiral-wound-alpha.png
+newmtl mat_16_Motor Tube_G126
+illum 2
+Ns 450.00003
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.7647059 0.23529412 0.19607843
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\reusable.png
+newmtl mat_17_Retainer
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\spiral-wound-alpha.png
+newmtl mat_18_Centering Ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wood.jpg
+newmtl mat_19_Centering Ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wood.jpg
+newmtl mat_20_Centering Ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wood.jpg
+newmtl mat_21_Shock Cord
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\wadding.png
+newmtl mat_22_Trapezoidal Fin Set
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\barna\Documents\GitHub\2024-NRC\OpenRocket\Current\stilltesting_img\balsa.jpg

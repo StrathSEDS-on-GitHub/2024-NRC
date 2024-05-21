@@ -10,11 +10,9 @@ from tqdm import tqdm
 # Initialise MRC LaunchPad
 env = Environment(latitude=52.668650, longitude= -1.524493, elevation=0)
 
-launchday = (2024, 5, 18, 12)
+launchday = (2024, 5, 21, 12)
 
 env.set_date(launchday)
-
-# use this code closer to the date when a GFS forecast is available
 
 env.set_atmospheric_model(
     type="Forecast", file="GFS"
@@ -108,4 +106,7 @@ simulation = Flight(
     heading=270,
 )
 
-simulation.all_info()
+#simulation.all_info()
+simulation.export_data(
+    "flight_data.csv",
+)
